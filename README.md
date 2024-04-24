@@ -15,7 +15,7 @@ Este es un dashboard interactivo creado con Streamlit para analizar datos de seg
 
 1. Asegúrate de tener instalado Python en tu sistema.
 2. Instala las dependencias necesarias ejecutando `pip install -r requirements.txt`.
-3. Ejecuta la aplicación con el comando `streamlit run introduccion.py`.
+3. Ejecuta la aplicación con el comando `streamlit run dashboard-siniestros-viales.py`.
 
 ## Análisis de Seguridad Vial en CABA
 
